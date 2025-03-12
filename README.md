@@ -1,1 +1,1 @@
-# OOP_practise
+Basic features for the habit tracker app
