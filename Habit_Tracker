@@ -1,0 +1,12 @@
+class Habit:
+    def __init__(self,name,frequency,status):
+        self.name=name
+        self.frequency=frequency
+        self.status=status
+
+studying = Habit("studying", daily, "complete")
+running = Habit("running",daily,"complete")
+praying = Habit("Praying",daily, "not done")
+reading =Habit()
+
+print(Habit1.name, Habit2.name, Habit3.name)
